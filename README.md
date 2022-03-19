@@ -1,0 +1,2 @@
+# NotesApp
+react + redux 
